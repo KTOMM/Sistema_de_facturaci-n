@@ -1,0 +1,67 @@
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\bin\Debug\Presentacion.exe.config
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\bin\Debug\Presentacion.exe
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\bin\Debug\Presentacion.pdb
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.Captcha.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.Diccionario.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.Form1.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.Form2.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.Form3.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.exe
+R:\Login C#\Nueva carpeta\Solution1\Presentacion\obj\Debug\Presentacion.pdb
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.exe.config
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.exe
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.pdb
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Captcha.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Diccionario.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Form1.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Form2.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Form3.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.exe
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.pdb
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\FontAwesome.Sharp.Pro.dll
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Registro.resources
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.exe.manifest
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.application
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.exe.manifest
+R:\Login C#\Nueva carpeta\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.application
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.exe.manifest
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.application
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Captcha.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Diccionario.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Form3.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Registro.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.exe.manifest
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.application
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Kim\Desktop\final_finalxd\SistemaDeFacturacionConCaptcha\Solution1\Presentacion\obj\Debug\Presentacion.pdb
